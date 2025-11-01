@@ -19,7 +19,7 @@ function App() {
       <footer className="py-8 px-6 border-t border-white/10">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Izumi. Built with React, TypeScript, and Tailwind CSS.
+            © 2025 Izumi.
           </p>
         </div>
       </footer>

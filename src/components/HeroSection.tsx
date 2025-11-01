@@ -98,7 +98,7 @@ export function HeroSection() {
 
           <h1 className="heading-xl text-white max-w-4xl mx-auto">
             <span className="inline-block animate-slide-up" style={{ animationDelay: '0.1s' }}>
-              Hi, I'm{' '}
+              Hi, I'm {' '}
             </span>
             <span
               className="inline-block bg-gradient-to-r from-neon-cyan via-neon-purple to-neon-pink bg-clip-text text-transparent animate-slide-up"
@@ -143,7 +143,7 @@ export function HeroSection() {
 
           <div className="flex gap-6 justify-center animate-slide-up" style={{ animationDelay: '0.6s' }}>
             <a
-              href="https://github.com"
+              href="https://github.com/izumitempest"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-neon-cyan transition-colors duration-300 hover:scale-110 transform"
@@ -151,7 +151,7 @@ export function HeroSection() {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/ekene-okwuchukwu-142276357"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-neon-cyan transition-colors duration-300 hover:scale-110 transform"
@@ -159,7 +159,7 @@ export function HeroSection() {
               <Linkedin size={24} />
             </a>
             <a
-              href="mailto:izumi@example.com"
+              href="mailto:lilice308@gmail.com"
               className="text-gray-400 hover:text-neon-cyan transition-colors duration-300 hover:scale-110 transform"
             >
               <Mail size={24} />

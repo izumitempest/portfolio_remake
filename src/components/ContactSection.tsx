@@ -7,10 +7,10 @@ import { ScrollTransition } from './ScrollTransition';
 import { SectionDivider } from './SectionDivider';
 
 const socialLinks = [
-  { icon: Github, label: 'GitHub', url: 'https://github.com', color: 'hover:text-neon-cyan' },
-  { icon: Linkedin, label: 'LinkedIn', url: 'https://linkedin.com', color: 'hover:text-neon-purple' },
-  { icon: Twitter, label: 'Twitter', url: 'https://twitter.com', color: 'hover:text-neon-pink' },
-  { icon: Mail, label: 'Email', url: 'mailto:izumi@example.com', color: 'hover:text-neon-cyan' },
+  { icon: Github, label: 'GitHub', url: 'https://github.com/izumitempest', color: 'hover:text-neon-cyan' },
+  { icon: Linkedin, label: 'LinkedIn', url: 'https://linkedin.com/in/ekene-okwuchukwu-142276357', color: 'hover:text-neon-purple' },
+  { icon: Twitter, label: 'Twitter', url: 'https://twitter.com/@lilxeex2', color: 'hover:text-neon-pink' },
+  { icon: Mail, label: 'Email', url: 'mailto:lilice308@gmail.com', color: 'hover:text-neon-cyan' },
 ];
 
 export function ContactSection() {

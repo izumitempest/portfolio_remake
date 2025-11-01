@@ -6,19 +6,19 @@ import { ParallaxSection } from './ParallaxSection';
 
 const timeline = [
   {
-    year: '2024',
-    title: 'Senior Backend Engineer & Security Specialist',
-    company: 'Tech Innovations Inc.',
+    year: '2025',
+    title: 'Lead Backend Engineer & Security Specialist',
+    company: 'Odyss',
     description: 'Leading backend architecture and security initiatives for enterprise applications. Implemented zero-trust security model and ML-powered threat detection.',
     achievements: [
       'Reduced security incidents by 85%',
       'Improved API performance by 200%',
-      'Led team of 5 engineers',
+      'Led team of 3 engineers',
     ],
     tags: ['Python', 'Security', 'Leadership'],
   },
   {
-    year: '2023',
+    year: '2024',
     title: 'AI/ML Engineer',
     company: 'DataTech Solutions',
     description: 'Developed and deployed machine learning models for natural language processing and predictive analytics.',
@@ -30,7 +30,7 @@ const timeline = [
     tags: ['TensorFlow', 'NLP', 'Python'],
   },
   {
-    year: '2022',
+    year: '2023',
     title: 'Backend Developer',
     company: 'StartupX',
     description: 'Built scalable backend systems and RESTful APIs serving millions of users.',
@@ -42,7 +42,7 @@ const timeline = [
     tags: ['Django', 'PostgreSQL', 'Docker'],
   },
   {
-    year: '2021',
+    year: '2022',
     title: 'Junior Developer & Security Researcher',
     company: 'CyberSafe Labs',
     description: 'Conducted security audits and developed automation tools for vulnerability scanning.',
